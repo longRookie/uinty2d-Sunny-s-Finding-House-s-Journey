@@ -1,5 +1,5 @@
 # uinty2d-Sunny-s-Finding-House-s-Journey
-@[toc]
+
 ## Game Itself
 ### Effects, graphics and background of the game
 #### Overall effects of the game:
