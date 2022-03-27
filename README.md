@@ -34,8 +34,5 @@
 #### The background of the Game:
 The little fox Sunny gets lost in the forest. The player needs to control Sunny and help her find her home.On the road, players should be careful of the mechanism and frog attacks, to pay attention not to fall into the water.Only by helping Sunny find her home can the player win the game.
 
-## 项目的下载地址
-[https://github.com/long-Rookie/uinty2d-Sunny-s-Finding-House-s-Journey.git](https://github.com/long-Rookie/uinty2d-Sunny-s-Finding-House-s-Journey.git)
-觉得好用给个星吧！！！
 
 
